@@ -1,0 +1,2 @@
+model_checkpoint_path: "G://Stance_Detection/model"
+all_model_checkpoint_paths: "G://Stance_Detection/model"
